@@ -32,7 +32,7 @@ http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 		<property name="dataSource" ref="ds"></property>
 	</bean>
 
-	<bean id="memberdao" class="">
+	<bean id="memberdao" class="com.assign4.GroupF.dao.Memberdao_F">
 		<property name="template" ref="jt"></property>
 
 	</bean>
