@@ -7,10 +7,14 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<h1><a href="Register">Register</a></h1>
+<!-- nav bar -->
+<ul>
+  <li><a href="clientDashboard">clientLogin</a></li>
+  
+</ul>
+<h1><a href="">Register</a></h1>
 <h1>Login</h1>
-<form method="POST" action="dashboard">
+<form method="POST" action="">
 	<table>
 		<tr>
 		   
