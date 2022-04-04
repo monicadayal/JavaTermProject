@@ -7,7 +7,7 @@ package com.project.GroupF.Beans;
  * @author Monica
  *
  */
-public class ClientBean {
+public class ClientDetailBean {
 	private int client_id;
 	private String firstName;
 	private String lastName;
